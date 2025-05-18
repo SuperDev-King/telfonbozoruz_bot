@@ -14,27 +14,7 @@ A Telegram bot that allows users to post and search for phones for sale.
 - Search phones by category
 - In-memory storage of listings
 
-## Setup
-
-1. Install the required dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-2. Get a Telegram Bot Token:
-   - Message [@BotFather](https://t.me/botfather) on Telegram
-   - Create a new bot using the `/newbot` command
-   - Copy the token provided by BotFather
-
-3. Update the bot token:
-   - Open `phone_marketplace_bot.py`
-   - Replace `'YOUR_BOT_TOKEN'` with your actual bot token
-
-4. Run the bot:
-```bash
-python phone_marketplace_bot.py
-```
-
+  
 ## Usage
 
 1. Start the bot by sending `/start`
